@@ -1,18 +1,11 @@
-# Streamlit
 .streamlit/secrets.toml
 .streamlit/config.toml
-
-# Environment variables
 .env
 .env.*
-
-# Python
 __pycache__/
 *.pyc
-
-# Virtual environments
 venv/
 .venv/
-
-# PyCharm
 .idea/
+users.db
+*.db
