@@ -18,7 +18,7 @@ The platform integrates machine learning-powered stress prediction with healthca
 
 StressGuard provides:
 
-* AI-assisted stress level prediction
+* ML-assisted stress level prediction
 * Comprehensive patient management tools
 * Doctor-patient communication channels
 * Appointment scheduling and tracking
