@@ -2,7 +2,7 @@
 
 # StressGuard
 
-### AI-Powered Mental Wellness Monitoring Platform
+### ML-Powered Mental Wellness Monitoring Platform
 
 A comprehensive multi-role healthcare and wellness platform built with **Streamlit**, combining **stress prediction**, **patient-doctor collaboration**, **appointment management**, **support ticketing**, **analytics**, **PDF reporting**, and **role-based dashboards** for patients, doctors, and administrators.
 
